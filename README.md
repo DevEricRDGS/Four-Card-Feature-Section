@@ -26,12 +26,12 @@ Users should be able to:
 
 ### Screenshot
 
-
+<img width="978" height="818" alt="Image" src="https://github.com/user-attachments/assets/aac2b340-6ee2-4c51-8c15-1071ea064f56" />
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/DevEricRDGS/Four-Card-Feature-Section)
+- Live Site URL: (https://devericrdgs.github.io/Four-Card-Feature-Section/)
 
 ## My process
 
