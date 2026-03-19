@@ -1,0 +1,16 @@
+@media(max-width: 500px){
+    .main-content .title-intro{
+        width: 80%;
+    }
+
+    .main-content .cards{
+        display: flex;
+        flex-direction: column;
+        width: 80%;
+    }
+
+    .main-content .cards .card{
+        max-width: 100%;
+        padding: 40px;
+    }
+}

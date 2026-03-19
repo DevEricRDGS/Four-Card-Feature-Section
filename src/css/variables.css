@@ -1,0 +1,10 @@
+:root{
+    --border-team-builder:hsl(0, 78%, 62%);
+    --border-calculator: hsl(212, 86%, 64%);
+    --border-karma: hsl(34, 97%, 64%);
+    --border-supervisor: hsl(180, 62%, 55%);
+
+    --neutral-500: hsl(234, 12%, 34%);
+    --neutral-400: hsl(212, 6%, 44%);
+    --neutral: hsl(0, 0%, 100%);
+}
